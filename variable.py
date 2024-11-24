@@ -1,0 +1,1 @@
+execl_file_path='./resource/御魂属性.xlsx'
