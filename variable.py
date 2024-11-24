@@ -1,2 +1,1 @@
-execl_file_pat\
-	='./resource/御魂属性.xlsx'
+execl_file_path= './resource/御魂属性.xlsx'
